@@ -1,2 +1,2 @@
-# 3d-pringing-sign-generator
+# Sign Generator
 A small openSCAD script to generate signs 
